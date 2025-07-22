@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm Peter Hannon, software developer & entrepreneur based in Plymouth in the UK
+
+The best way to reach me is via my company website : [(https://suvotechnology.com/)]
+
 <!--
 **peterhannon/peterhannon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
